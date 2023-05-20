@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    text-align: center;
+}
+.hhh{
+    background: black;
+    color: paleturquoise;
+    padding: 30px;
+}
+.sss{
+    background: pink;
+    padding: 10px;
+}
+.container{
+    background: paleturquoise;
+    border-radius: 5px;
+    padding: 5px;
+}
